@@ -16,6 +16,7 @@
 			<li>remote</li>
 			<li>push</li>
 			<li>pull</li>
+			<li>push.egoing</li>
 		</ul>
 	</body>
 </html>
