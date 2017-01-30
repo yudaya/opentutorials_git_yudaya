@@ -1,4 +1,8 @@
 <html>
-	<head></head>
+	<head>
+		<title>
+			Git ¼Ò°³
+		</title>
+	</head>
 	<body></body>
 </html>
