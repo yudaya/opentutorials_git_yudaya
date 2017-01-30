@@ -12,6 +12,7 @@
 			<li>Git이란?</li>
 			<li>버전</li>
 			<li>충동</li>
+			<li>conflict</li>
 		</ul>
 	</body>
 </html>
